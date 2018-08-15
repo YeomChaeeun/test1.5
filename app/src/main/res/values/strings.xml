@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tracking</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_viewer">Map</string>
+</resources>
